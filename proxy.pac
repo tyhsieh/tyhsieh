@@ -21,7 +21,7 @@ var nwave_bastion_forward_list = [
 	// fw1-clpk.erav.nwave.noaa.gov
 	"198.18.8.66",
 	// fw1-denv.erav.nwave.noaa.gov
- 	"198.18.8.67",
+ 	"198.18.9.67",
 	// fw1-denv.erav.nwave.noaa.gov
 	"198.18.9.76",
 	// mc1.denv.nwav.noaa.gov
