@@ -32,6 +32,19 @@ var nwave_bastion_forward_list = [
 	"*.github.nwave.noaa.gov"
 ];
 
+
+var subnet_forward_list = [
+	"198.18.8.66",
+	// fw1-denv.erav.nwave.noaa.gov
+ 	"198.18.9.67",
+	// fw1-denv.erav.nwave.noaa.gov
+	"198.18.9.76",
+	// mc1.denv.nwav.noaa.gov
+	"198.18.9.82",
+	// stfw01.ford.nwave.noaa.gov
+	"198.18.36.86",
+];
+
 var nwave_lab_bastion_forward_list = [
 	"proxmox-01.lab.nwave.noaa.gov",
 	"192.168.255.*",
